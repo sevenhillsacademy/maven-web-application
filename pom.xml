@@ -12,8 +12,8 @@
 	<description>Web Project for Java Project</description>
 
 	<organization>
-		<name>Landmark Technologies</name>
-		<url>http://landmarktechnologies.com/</url>
+		<name>7 hills institute</name>
+		<url>http://7hillsinstitute.co.in/</url>
 	</organization>
 
 	<properties>
@@ -110,7 +110,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>Landmark</finalName>
+		<finalName>7HI</finalName>
 		
 		<plugins>
 			<plugin>
